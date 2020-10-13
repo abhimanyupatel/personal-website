@@ -1,4 +1,4 @@
-baseURL = "http://abhimanyupatel.github.io/personal-website/"
+baseURL = "http://www.abhimanyupatel.com"
 languageCode = "en-us"
 paginate = 6
 theme = "portio-hugo"
