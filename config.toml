@@ -1,7 +1,7 @@
 baseURL = "http://abhimanyupatel.github.io/personal-website/"
 languageCode = "en-us"
 paginate = 6
-theme = "portio"
+theme = "portio-hugo"
 title = "Abhimanyu Patel"
 
 # Main Menu
