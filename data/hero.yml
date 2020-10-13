@@ -2,10 +2,10 @@
 enable: true
 topTitle: Hello, I am Abhimanyu
 content: >
-  # I am here for your personal business
+  # This website is under construction!
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  This website will serve as my personal site with my information as well as
+  a project to learn hugo and github pages.
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/apatel-eth.jpg
