@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Me on Abhimanyu Patel</title>
-    <link>http://www.abhimanyupatel.com/me/</link>
+    <link>https://www.abhimanyupatel.com/me/</link>
     <description>Recent content in Me on Abhimanyu Patel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://www.abhimanyupatel.com/me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.abhimanyupatel.com/me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
