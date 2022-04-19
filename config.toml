@@ -1,4 +1,4 @@
-baseURL = "http://www.abhimanyupatel.com"
+baseURL = "https://www.abhimanyupatel.com"
 languageCode = "en-us"
 paginate = 9
 pluralizelisttitles = false
@@ -90,7 +90,7 @@ weight = 2
 [[params.social]]
 name = "Instagram"
 icon = "fa-instagram"
-url = "http://instagram.com/abhimanyu_patel/"
+url = "https://instagram.com/abhimanyu_patel/"
 weight = 3
 [[params.social]]
 name = "Twitter"
